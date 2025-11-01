@@ -11,7 +11,7 @@ export const Toy_Card=({arr}:{arr:CardItem})=>{
   
         
                 
-                <div key={arr.id} className="cg col-lg-3 col-12" >
+                <div key={arr.id} className="cg col-lg-3 col-12 m" >
   <img src={arr.img} className="c-img" alt="..."/>
 </div>
              
