@@ -1,0 +1,61 @@
+{
+  "about1": "About Me",
+  "toys": "Toys",
+  "gnomiki": "Gnomes",
+  "barbi": "Dolls",
+  "services": "Services",
+  "hair": "Hairdressing",
+  "lak": "Nail Art",
+  "moda": "Fashion",
+  "contact": "Contact",
+  "footer": "© 2025 GayanaGrigori",
+    "hero": {
+    "name": "Gayana Grigori",
+    "subtitle": "Creativity, Inspiration, Beauty."
+  },
+  "home": {
+    "welcome": "Welcome to the world of",
+    "intro": "GayanaGrigori is a space of creativity, inspiration, and individual style. We create beauty with our hands and our hearts. You will find unique products and personal services:",
+    "tailor": {
+      "title": "Tailor Studio",
+      "item1": "Custom-made clothing",
+      "item2": "Repair and restyling",
+      "item3": "Creating unique looks in your style"
+    },
+    "dolls": {
+      "title": "Author's Dolls and Gnomes",
+      "item1": "Handmade, each character is unique",
+      "item2": "Interior dolls and souvenirs",
+      "item3": "A perfect gift with personality"
+    },
+    "hair": {
+      "title": "Hairstyles",
+      "item1": "Holiday and everyday styles",
+      "item2": "Light styling and braids",
+      "item3": "Haircare consultations",
+            "item4":"Hair extensions"
+
+    },
+    "nails": {
+      "title": "Manicure",
+      "item1": "Nail care",
+      "item2": "Design and polish",
+      "item3": "Personalized service for each client",
+      "item4":"Nail extensions"
+    }
+  },
+  "about": {
+    "bioTitle": "Biography",
+"bioText": "I was born in 1982 in sunny Armenia, in the beautiful city of Yerevan.\nWhen I turned 11, my family moved to Russia, to the settlement of Berezovo, where I spent a significant part of my childhood and youth. It was there that I finished secondary school, taking the first steps toward my future.\n\nIn 2000, I returned to my hometown Yerevan to continue my education and pursue my creative aspirations. I enrolled in university, where I earned a higher education degree specializing as a fashion designer. My focus was as an artist in the field of fashion and clothing design.\n\nStudying was not just a stage of life for me, but a real start in my professional career, where I was able to combine my love for art, style, and creativity.",
+    "certificates": "Certificates & Diplomas",
+    "contests": "Contests",
+    "achievements": [
+      "2005 Fashion Week - First Place",
+      "2004 Fashion Week",
+      "Russki Sileut",
+      "Worked with Lilit Magaryan as a designer",
+      "2005 — worked as a manager at Arlekin atelier",
+      "2005 Fashion Week"
+    ]
+  }
+}
